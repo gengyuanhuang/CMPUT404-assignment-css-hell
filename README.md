@@ -25,4 +25,5 @@ Part1:
     Q: what modifications you had to make to the project gutenberg HTML files?
     A: I comment out the internal css styling inside the <head></head>. Then added <link rel="stylesheet" href="style.css"> element to the <head></head>. This linked my external css file to the html file.
 
+The freewoodtexture is obtained from https://freestocktextures.com/license/. The image is licensed under Creative Commons Zero. Here is the link to the image https://freestocktextures.com/texture/floor-wood-oak,765.html
 
