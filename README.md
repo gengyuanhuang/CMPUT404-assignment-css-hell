@@ -21,4 +21,8 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Part1:
+    Q: what modifications you had to make to the project gutenberg HTML files?
+    A: I comment out the internal css styling inside the <head></head>. Then added <link rel="stylesheet" href="style.css"> element to the <head></head>. This linked my external css file to the html file.
+
 
